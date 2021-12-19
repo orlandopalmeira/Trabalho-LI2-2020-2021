@@ -1,0 +1,8 @@
+.vscode
+Doxyfile
+main
+*.out
+*.o
+*.s
+mainpagedoc.md
+.DS_Store
