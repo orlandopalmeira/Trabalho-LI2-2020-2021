@@ -1,34 +1,19 @@
-# LI2 - UMinho 2021/22
-
 <img src='https://i.postimg.cc/hjkbcqPN/EEUM-logo.png' width="30%"/>
 
-<br>
+<h3 align="center">Licenciatura em Engenharia Informática <br> Trabalho prático de Laboratórios de Informática II <br> 2020/2021 </h3>
 
-## Nota: 19 em 20
+---
+<h3 align="center"> Colaboradores &#129309 </h2>
 
-## Observações:
-- Este repositório está arquivado
+<div align="center">
 
-## Trabalho elaborado por:
-- Orlando José da Cunha Palmeira A97755
+| Nome             | Número |
+|------------------|--------|
+| Orlando Palmeira | A97755 |
 
-<br>
+</div>
 
-## Comandos principais da makefile
-Este comando executa os comandos ```compile``` e ```docS```
-```
-$ make all
-```
-Este comando compila o ficheiro principal.
-```
-$ make compile
-```
-Este comando gera a documentação.
-```
-$ make docS
-```
+### Nota: 19 / 20
 
-<br>
-
-## Hiperligações úteis
-- [Documentação](docs/html/index.html)
+<h3><i>Keywords</i></h3>
+LI2, Laboratórios de Informática II, laboratórios de informatica , universidade do minho, uminho, miei, lei, engenharia informatica
