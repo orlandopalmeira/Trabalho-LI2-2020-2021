@@ -10,6 +10,7 @@
 | Nome             | Número |
 |------------------|--------|
 | Orlando Palmeira | A97755 |
+| Miguel Pinto | A96106 |
 
 </div>
 
